@@ -1,2 +1,2 @@
-How to run the program:
+Run program :
 ---double click on file Execute.bat
